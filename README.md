@@ -59,6 +59,9 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
 
+
+-criar microfront ends com esse exemplo => ng g @angular-architects/native-federation:init --project new-shell --port 4202 --type dynamic-host
+
 observações, remover o options de build em arquitects no shell no angular.json, para rodar o ssr + microfrontend
 
 e mudar o server.ts para:
